@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 808F-8567
+
+ Directory of C:\Users\RAJESH.N\Desktop\gitproject
+
+05/07/2020  04:43 PM    <DIR>          .
+05/07/2020  04:43 PM    <DIR>          ..
+05/07/2020  04:43 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  238,736,670,720 bytes free
